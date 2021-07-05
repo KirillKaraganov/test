@@ -1,2 +1,2 @@
 My first line of code in this file
-Some diff changes(from branch2)
+Some diff changes(from master branch)
