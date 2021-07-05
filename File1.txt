@@ -1,2 +1,4 @@
 1. First line
-2. Add second line 
+2. Add second line
+
+Second user did changes.
