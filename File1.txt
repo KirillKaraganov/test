@@ -1,4 +1,4 @@
 1. First line
 2. Add second line Hello from master branch
 
-We add some changes in branch1
+We added some changes from master branch.
